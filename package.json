@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "tomas-wordcount-package:toggle"
   },
-  "repository": "https://github.com/atom/tomas-wordcount-package",
+  "repository": "https://github.com/freetrade7/tomas-wordcount-package",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
